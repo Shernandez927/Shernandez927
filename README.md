@@ -4,7 +4,7 @@ Hi 👋 I'm Shelby
 About Me 🪪
 -------------------
 
-I’ve been learning to code for the past 6 months through UT Austin’s Coding BootCamp. Some of my favorite frameworks and libraries include TailwindCSS and React 🧸  
+I’ve been learning to code for the past 6 months through UT Austin’s Coding BootCamp. Some of my favorite frameworks and libraries include TailwindCSS and React. 🧸  
 * 🌍  I'm based in Austin, TX 
 * 📬  You can contact me at [shelbyhernandez4851107@gmail.com](mailto:shelbyhernandez4851107@gmail.com) 
 * 🌱  I'm learning Complex State Management 
