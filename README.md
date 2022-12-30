@@ -1,8 +1,8 @@
 Hi 👋 I'm Shelby
 =======================
 
-Web Developer 💻
--------------
+About Me 🪪
+-------------------
 
 I’ve been learning to code for the past 6 months through UT Austin’s Coding BootCamp. Some of my favorite frameworks and libraries include TailwindCSS and React 🧸  
 * 🌍  I'm based in Austin, TX 
